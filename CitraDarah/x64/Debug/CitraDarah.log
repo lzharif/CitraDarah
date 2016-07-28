@@ -1,0 +1,70 @@
+﻿  MyForm.cpp
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\HeaderProgramLatih.h(36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\HeaderProgramLatih.h(50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\HeaderProgramLatih.h(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\HeaderProgramLatih.h(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2508): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2533): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2559): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2590): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2592): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2617): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2688): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2689): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2739): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2740): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2741): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2742): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2743): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2746): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2747): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2748): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2749): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2750): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2762): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2836): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2850): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2892): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2897): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2906): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2912): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2940): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2941): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2942): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2993): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(2968): warning C4101: 'tekstur': unreferenced local variable
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3164): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3165): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3166): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3167): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3168): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3175): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3176): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3180): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\backupzharif\asistensi dosen\pupt tahun 2 (2016)\program\citradarah\citradarah\MyForm.h(3182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(580): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+MyForm.obj : warning LNK4248: unresolved typeref token (0100002F) for 'CvFileStorage'; image may not run
+  CitraDarah.vcxproj -> D:\BackupZharif\Asistensi Dosen\PUPT Tahun 2 (2016)\Program\CitraDarah\x64\Debug\CitraDarah.exe
